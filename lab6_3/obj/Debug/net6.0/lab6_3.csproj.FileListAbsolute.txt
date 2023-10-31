@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\lab6_3\lab6_3\bin\Debug\net6.0\lab6_3.exe
+C:\Users\HP\source\repos\lab6_3\lab6_3\bin\Debug\net6.0\lab6_3.deps.json
+C:\Users\HP\source\repos\lab6_3\lab6_3\bin\Debug\net6.0\lab6_3.runtimeconfig.json
+C:\Users\HP\source\repos\lab6_3\lab6_3\bin\Debug\net6.0\lab6_3.dll
+C:\Users\HP\source\repos\lab6_3\lab6_3\bin\Debug\net6.0\lab6_3.pdb
+C:\Users\HP\source\repos\lab6_3\lab6_3\obj\Debug\net6.0\lab6_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\lab6_3\lab6_3\obj\Debug\net6.0\lab6_3.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\lab6_3\lab6_3\obj\Debug\net6.0\lab6_3.AssemblyInfo.cs
+C:\Users\HP\source\repos\lab6_3\lab6_3\obj\Debug\net6.0\lab6_3.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\lab6_3\lab6_3\obj\Debug\net6.0\lab6_3.dll
+C:\Users\HP\source\repos\lab6_3\lab6_3\obj\Debug\net6.0\refint\lab6_3.dll
+C:\Users\HP\source\repos\lab6_3\lab6_3\obj\Debug\net6.0\lab6_3.pdb
+C:\Users\HP\source\repos\lab6_3\lab6_3\obj\Debug\net6.0\lab6_3.genruntimeconfig.cache
+C:\Users\HP\source\repos\lab6_3\lab6_3\obj\Debug\net6.0\ref\lab6_3.dll
